@@ -1,4 +1,5 @@
-# Monthy-Hall-problem-simulatorSo there are these three doors, and behind two of them there is a goat, and behind the third there is a car.
+# Monthy-Hall-problem-simulator
+So there are these three doors, and behind two of them there is a goat, and behind the third there is a car.
 
 You get to choose a door and the prize it's what lies behind it. And even if you love goats and despise cars, you WANT the car as you can later sell it and get even MORE goats.
 
